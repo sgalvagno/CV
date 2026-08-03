@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Sébastien Galvagno — Ingénieur Logiciel Senior | C, Linux, DevOps</title>
+  <meta name="description" content="CV de Sébastien Galvagno, ingénieur logiciel senior freelance à Antibes, Six-Fours les plages. 20+ ans d'expérience en C/C++, Unix/Linux, systèmes embarqués et DevOps.">
+  <meta name="keywords" content="ingénieur logiciel, développeur freelance, C++, Linux, DevOps, Antibes, Sophia-Antipolis, Toulon">
+  <meta name="author" content="Sébastien Galvagno">
+  <link rel="canonical" href="http://cv.galvagno.info/">
+
+  <!-- Open Graph (partage Facebook, LinkedIn...) -->
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Sébastien Galvagno — Ingénieur Logiciel Senior">
+  <meta property="og:description" content="20+ ans d'expérience en développement C/C++, systèmes Unix/Linux et DevOps. Freelance à Antibes, Six-Fours les plages.">
+  <meta property="og:image" content="http://cv.galvagno.info/images/avatar.jpg">
+  <meta property="og:url" content="http://cv.galvagno.info/">
+  <meta property="og:locale" content="fr_FR">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Sébastien Galvagno — Ingénieur Logiciel Senior">
+  <meta name="twitter:description" content="20+ ans d'expérience en C/C++, Unix/Linux, DevOps. Freelance à Antibes.">
+  <meta name="twitter:image" content="http://cv.galvagno.info/images/avatar.jpg">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Sébastien Galvagno",
+    "jobTitle": "Ingénieur Logiciel Senior",
+    "description": "Concepteur, développeur et mainteneur d'applications complexes et mobiles.",
+    "url": "http://cv.galvagno.info/",
+    "image": "http://cv.galvagno.info/images/avatar.jpg",
+    "email": "mailto:cv@galvagno.info",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Antibes",
+      "addressRegion": "Provence-Alpes-Côte d'Azur",
+      "addressCountry": "FR"
+    },
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Waveye"
+    },
+    "sameAs": [
+        "https://www.linkedin.com/in/sébastien-galvagno-19936915",
+        "https://github.com/sgalvagno"
+    ],
+  }
+  </script>
+</head>
+
+<body>
+
+  <!-- Tiroir / Drawer -->
+  <button class="drawer-tab" id="drawerTab" aria-label="Ouvrir/Fermer le menu">
+    <i class="fa fa-chevron-left" id="drawerIcon"></i>
+  </button>
+  <button id="langToggle" class="lang-toggle" aria-label="Changer de langue"><span>FR / EN</span></button>
+
+  <button class="view-toggle" id="viewToggle" title="Changer l'affichage">
+    <i class="fa fa-list"></i>
+  </button>
+
+
+
+  <div class="page">
+    <div class="container">
+
+      <!-- Sidebar / Drawer -->
+      <aside class="sidebar" id="sidebar">
+        <div class="card avatar-card">
+          <!-- <div class="avatar-wrap">
+            <img src="images/avatar.jpg" alt="Avatar" class="avatar-img" />
+          </div> -->
+          <personal-info></personal-info>
+        </div>
+
+        <cv-menu></cv-menu>
+      </aside>
+
+      <!-- Main content -->
+      <main class="content" id="content">
+
+        <!-- Personal info visible seulement quand le tiroir est fermé -->
+        <!-- <section id="personalInfoTop"> -->
+          <!-- <div class="card">
+            <div class="personal-info-top" id="personalInfoTop"></div>
+          </div> -->
+        <!-- </section> -->
+         <!-- Personal info visible seulement quand le tiroir est fermé -->
+
+         <!-- <div class="card personal-info-top section-block" id="personalInfoTop"></div> -->
+
+        <div class="section-block" id="personalInfoTop">
+          <div class="card"></div>
+          <!-- <div class="card personal-info-top section-block" id="personalInfoTop"></div> -->
+        </div>
+
+        <section id="about">
+          <about-section></about-section>
+        </section>
+
+        <section id="work-experience">
+          <work-experience></work-experience>
+        </section>
+
+        <section id="education-academic">
+          <education-academic></education-academic>
+        </section>
+
+        <section id="education-other">
+          <education-other></education-other>
+        </section>
+
+        <!-- <section id="portfolio">
+          <h2 class="section-title">
+            <i class="fa fa-folder-open fa-fw icon-teal"></i>
+            Portfolio
+          </h2>
+          <p>Coming soon.</p>
+        </section> -->
+
+      </main>
+    </div>
+  </div>
+
+  <a href="https://github.com/sgalvagno/CV" class="github-ribbon" target="_blank" rel="noopener" aria-label="Voir le code source sur GitHub">
+  Fork me on GitHub
+</a>
+
+  <script type="module" src="js/drawer.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

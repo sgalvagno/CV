@@ -1,0 +1,10 @@
+services:
+  build:
+    build: .
+    image: js-build-runner:latest
+    volumes:
+      - ../../:/app
+      - /app/node_modules
+    working_dir: /app
+    command: ["build", "--outDir", "/app/dist"]
+    

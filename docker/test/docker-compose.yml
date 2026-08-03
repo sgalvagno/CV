@@ -1,0 +1,10 @@
+services:
+  test:
+    build: .
+    image: js-test-runner:latest
+    volumes:
+      - ../../:/app
+      - /app/node_modules   # évite d'écraser les node_modules du conteneur si présents
+    working_dir: /app
+    command: ["--config", "/app/jest.config.js"]
+    

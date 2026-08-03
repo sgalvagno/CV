@@ -1,0 +1,14 @@
+{
+  "about": { "en": "About", "fr": "À propos" },
+  "workExperience": { "en": "Work Experience", "fr": "Expérience professionnelle" },
+  "educationAcademic": { "en": "Education Academic", "fr": "Formation académique" },
+  "educationOther": { "en": "Trainings", "fr": "Autres formations" },
+  "portfolio": { "en": "Portfolio", "fr": "Portfolio" },
+  "comingSoon": { "en": "Coming soon.", "fr": "Bientôt disponible." },
+  "tableOfContents": { "en": "Table of contents", "fr": "Table des matières" },
+  "repository": { "en": "Repository", "fr": "Dépôt" },
+  "technologies": { "en": "Technologies", "fr": "Technologies" },
+  "tags": { "en": "Tags", "fr": "Mots-clés" },
+  "certificate": { "en": "Certificate", "fr": "Certificat" },
+  "present": { "en": "Present", "fr": "Présent" }
+}

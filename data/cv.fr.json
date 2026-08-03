@@ -1,0 +1,1519 @@
+{
+    "personal": {
+        "name": "Sébastien Galvagno",
+        "positions": [
+            "Ingénieur Logiciel Senior",
+            "Ingénieur Logiciel"
+        ],
+        "locations": [
+            "06160, Antibes Juan les Pins, France",
+            "83140, Six-Fours les plages, France"
+        ],
+        "email_hint": "Remplacez le premier point par @ dans l'adresse web",
+        "phone": "06 O6 72 I4 92",
+        "avatar": "images/avatar.jpg",
+        "rcs": "Immatriculé au RCS d'Antibes sous le numéro : 501 874 382 (Waveye).",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/sébastien-galvagno-19936915",
+            "github": "https://github.com/sgalvagno"
+            }
+    },
+    "aboutDev": {
+        "headline": "Concepteur, développeur et mainteneur d'applications complexes et mobiles.",
+        "summary": {
+            "long": "Ingénieur logiciel senior avec plus de 20 ans d'expérience en développement système sur Linux/UNIX et en architecture full-stack multiplateforme. Solide culture C système (réseau, concurrence, intégration matérielle bas niveau) acquise sur des projets historiques, aujourd'hui mobilisée pour superviser et fiabiliser du code — humain ou généré par IA — sur des stacks variées (Node.js, Python, React, mobile natif). À l'aise pour piloter des projets de bout en bout : conception d'API, CI/CD, containerisation et administration d'infrastructure. Expérience de collaboration avec des équipes recherche, design et produit, dans des contextes scientifiques (LOV/Sorbonne) comme industriels.",
+            
+            "short": "Ingénieur logiciel senior (20+ ans) en développement système Linux/UNIX et architecture full-stack. Solide culture C système et infrastructure multiplateforme, aujourd'hui au service de la supervision et fiabilisation de code (humain ou IA). Expérimenté en CI/CD, containerisation, et collaboration avec équipes recherche et produit.",
+            
+            "pitch": "Développeur full-stack et DevOps freelance, 20+ ans d'expérience du système bas niveau à l'infrastructure moderne. Je conçois, débogue et fiabilise du code — le mien, celui d'une équipe, ou celui d'une IA — sur des stacks aussi variées que Node.js, Python, React ou mobile natif.",
+            
+            "tagline": "Du C système à l'infra cloud : 20 ans à faire tourner du code fiable, partout.",
+            
+            "linkedin": "Freelance en développement logiciel et DevOps, avec un parcours qui va du C système bas niveau (réseau, concurrence, intégration matérielle) jusqu'à l'architecture full-stack moderne et l'infrastructure containerisée. Aujourd'hui, ma valeur ajoutée est autant de coder que de savoir évaluer et fiabiliser ce que produisent équipes et outils IA. Expérience en recherche scientifique (Sorbonne/LOV), santé/sécurité (O'Dive), et industrie.",
+            "old": "Ingénieur logiciel senior avec plus de 20 ans d'expérience dans le développement système sur Linux et environnements UNIX historiques. Solide expertise en C, en internals de runtime et en outils d'infrastructure multiplateformes. Expérimenté dans le débogage, le déploiement d'agents et la réécriture de systèmes runtime historiques pour le DevOps moderne. À l'aise pour collaborer avec les équipes design et produit, avec une expérience dans le support d'outils open source et de workflows d'automatisation.",
+            "dev":"Ingénieur logiciel senior, plus de 20 ans d'expérience entre développement système sur Linux/UNIX et architecture full-stack. Mon expérience du C système m'a donné une compréhension fine de ce qui se passe sous le capot, utile pour déboguer vite et juger la fiabilité d'un code. Développement et gestion d'infrastructure (build, installeurs, déploiement, gestion de sources) sont récurrents à travers mes missions, quel que soit le langage ou le contexte.",
+            "continu":"Ingénieur logiciel senior, plus de 20 ans d'expérience. J'ai commencé par 15 années de dev C, qui m'ont donné une rigueur d'analyse — comprendre en profondeur avant d'agir. Cette rigueur, je la retrouve aujourd'hui dans ce qui revient à chaque mission, quel que soit le langage : build, installeurs, déploiement, gestion de sources.",
+            "fondamentaux":"Ingénieur logiciel senior, je totalise plus de 20 ans d'expérience, dont 15 années de développement en C. C'est là que j'ai appris à comprendre en profondeur avant d'agir, une rigueur d'analyse que j'ai gardée depuis. Ce sont ces fondamentaux qui structurent chacune de mes missions : build, test, installeurs, déploiement, gestion de sources. Un seul principe guide tout ça : être sûr que c'est fiable avant de passer à l'étape suivante."
+        }
+    },
+    "about": {
+        "headline": "Peu importe le langage : je fais tourner les machines et livrer le code.",
+        "summary": {
+            "use":"cycle",
+            "long": "Ingénieur logiciel senior, plus de 20 ans d'expérience entre développement système sur Linux/UNIX et architecture full-stack. J'ai fait du C système (réseau, concurrence, quelques aspects bas niveau), toujours en parallèle d'autres sujets : CI/CD, infrastructure, scripts de déploiement (Bash, Docker). Cette polyvalence s'est confirmée sur d'autres missions où je touchais à peu près à tout — build, installeurs, interface web, gestion de sources. J'ai travaillé avec des équipes de recherche comme avec des équipes produit.",
+            
+            "short": "Ingénieur logiciel senior (20+ ans), du système Linux/UNIX à l'architecture full-stack. J'ai toujours mêlé C système et infra/CI/CD (Bash, Docker, déploiement), avec une bonne polyvalence acquise sur des missions variées : build, installeurs, interface web, gestion de sources.",
+            
+            "pitch": "Dev full-stack et DevOps freelance. J'ai toujours fait du C système en parallèle d'infra et de CI/CD — jamais l'un sans l'autre. Build, déploiement, installeurs, interface web : je touche à tout ce qui fait tourner un projet de bout en bout.",
+            
+            "tagline": "Le langage change, le build et la machine restent : c'est mon terrain depuis 20 ans.",
+            
+            "linkedin": "Freelance en développement logiciel et DevOps, avec un parcours qui mêle depuis toujours le C système (réseau, concurrence, bas niveau) et l'infrastructure/CI/CD (Bash, Docker, déploiement). Polyvalent par nécessité et par goût : build, installeurs, interface web, gestion de sources — j'ai touché à peu près tout ce qui fait tourner un projet. Expérience en recherche scientifique (Sorbonne/LOV) et en développement produit.",
+            "guide":"Un seul principe guide tout ça : être sûr que c'est fiable avant de passer à l'étape suivante.",
+            "cycle":"Ingénieur logiciel depuis plus de 20 ans, dont 15 années de développement en C. C'est là que j'ai appris à comprendre en profondeur avant d'agir, une rigueur d'analyse que j'ai gardée depuis. Je mets aujourd'hui cette rigueur au service de ce dont le client a besoin. Dans mes missions, je me retrouve à couvrir l'ensemble du cycle : du développement selon les cas, de la construction ou de l'installation de logiciels, de la configuration, de l'automatisation de certains processus. Ce n'est pas toujours le client qui le demande, mais j'en ai besoin pour assurer le test, la fiabilité, la maintenance, l'évolution et, au final, la réutilisabilité."
+        }
+    },
+    "experience": [
+        {
+            "titre": "Ingénieur Logiciel & DevOps",
+            "organisation": "Sorbonne Université / Institut de la Mer de Villefranche (LOV)",
+            "lieu": "Villefranche-sur-Mer, France",
+            "mode": "Hybride",
+            "date": {
+                "start": "Juin 2023",
+                "end": "Août 2025",
+                "current": false
+            },
+
+            "intro": "En tant que membre de l'équipe <a href =\"https://lov.imev-mer.fr/web/team-complex/\">COMPLEx</a> (COMPutational Plankton Ecology), j'étais principalement responsable du développement de la nouvelle génération de ZooProcess, une plateforme logicielle de gestion du scanner de plancton Zooscan, dans le cadre du projet FUTURE-Obs.",
+
+            "sections": [
+                {
+                "titre": "ZooProcess (projets <a href=\"https://kit-101.sorbonne-universite.fr\">Future-Obs</a> & <a href=\"https://www.imagine-ai.eu\">iMagine</a>)",
+                "paragraphe": "Conception et développement d'une application web pour gérer et traiter les images scientifiques acquises par des scanners à plat : Zooscan.",
+
+                "items": [
+                    {
+                    "titre": "Backend",
+                    "bullets": [
+                        "Conception d'API avec OpenAPI.",
+                        "Implémentation Node.js/Express.js.",
+                        "Persistance MongoDB via l'ORM Prisma."
+                    ],
+                    "techno": ["Node.js", "Express.js", "MongoDB", "Prisma", "OpenAPI", "Swagger"]
+                    },
+                    {
+                    "titre": "Frontend",
+                    "bullets": [
+                        "Interface React/Next.js.",
+                        "Formulaires dynamiques pilotés par JSON."
+                    ],
+                    "techno": ["React", "Next.js", "JSON"]
+                    },
+                    {
+                    "titre": "Traitement d'images",
+                    "bullets": [
+                        "Microservices Python avec FastAPI.",
+                        "Workflows d'images avec OpenCV et scikit-image.",
+                        "Intégration de segmentation par IA via le module Imagine-wp3."
+                    ],
+                    "techno": ["Python", "FastAPI", "OpenCV", "scikit-image","API"]
+                    }
+                ]
+                },
+                {
+                "titre": "Cytosense (projet ANERIS)",
+                "paragraphe": "Pipeline des données brutes Cytosense vers la classification de plancton Ecotaxa.",
+
+                "items": [
+                    {
+                    "titre": "Pipeline des données brutes vers <a href=\"https://ecotaxa.obs-vlfr.fr\">Ecotaxa</a>",
+                    "bullets": [
+                        "Pipeline de traitement basé sur schéma JSON.",
+                        "Intégration CI/CD et packaging.",
+                        "Script d'installation pour la chaîne complète."
+                    ],
+                    "techno": ["Python", "JSON", "CI/CD"],
+                    "repo":"https://github.com/ecotaxa/cytosense_to_ecotaxa_pipeline"
+                    },
+                    {
+                    "titre": "Convertisseur Cyz2JSON",
+                    "bullets": [
+                        "Refactorisation et fusion de plusieurs bases de code C#.",
+                        "Build multiplateforme (Linux, macOS, Windows)."
+                    ],
+                    "techno": ["C#", "GitHub Actions", "Linux", "macOS", "Windows"],
+                    "repo":"https://github.com/OBAMANEXT/cyz2json"
+                    }
+                ]
+                },
+                {
+                "titre": "Administration serveur",
+                "paragraphe": "Serveurs Dell, sauvegarde et pile de monitoring.",
+
+                "items": [
+                    {
+                    "titre": "Infrastructure",
+                    "bullets": [
+                        "Configuration iDRAC, RAID, LVM, Samba, NFS, sudoers.",
+                        "Watchdog pour récupération automatique après incident.",
+                        "Installation du système de sauvegarde Bacula.",
+                        "NGINX + certificats TLS pour les services.",
+                        "Surveillance du système de fichiers + alertes via bot Google Chat."
+                    ],
+                    "techno": ["Linux", "Shell", "Bacula", "NGINX", "Zabbix"]
+                    }
+                ]
+                }
+            ],
+
+            "tags": ["Python", "JSON", "C#", "CI/CD", "Docker", "GitHub Actions"]
+        },
+        {
+            "titre": "Ingénieur Logiciel Freelance",
+            "organisation": "Clavis",
+            "via": "Waveye",
+            "lieu": "Antibes, France",
+            "mode": "Sur site",
+            "date": {
+                "start": "Janvier 2025",
+                "end": "Janvier 2025",
+                "current": false
+            },
+
+            "intro": "Mission pour Clavis, une entreprise utilisant un ERP propriétaire et un site WordPress.",
+
+            "sections": [
+                {
+                "titre": "ERP et traitement de données",
+                "paragraphe": "Adaptation de l'ERP et automatisation autour des fichiers d'analyse clients.",
+                "items": [
+                    {
+                    "titre": "Évolution de l'ERP",
+                    "bullets": [
+                        "Modification de l'ERP propriétaire pour gérer de nouveaux formats de fichiers d'analyse fournis par les clients.",
+                        "Garantie de compatibilité avec les workflows et structures de données existants."
+                    ],
+                    "techno": ["WinDev"]
+                    },
+                    {
+                    "titre": "Outils d'automatisation",
+                    "bullets": [
+                        "Développement d'outils d'automatisation pour le contrôle croisé et la vérification de cohérence des bons de commande et factures.",
+                        "Traitement de fichiers PDF et Excel pour détecter les écarts et erreurs potentielles."
+                    ],
+                    "techno": ["Python", "PDF", "Excel", "OCR"]
+                    }
+                ]
+                },
+                {
+                "titre": "Maintenance du site web et du VPS",
+                "paragraphe": "Maintenance du site public et du VPS Windows.",
+                "items": [
+                    {
+                    "titre": "Site WordPress",
+                    "bullets": [
+                        "Maintenance du site WordPress <a href=\"https://www.clavis.fr\">www.clavis.fr</a>.",
+                        "Mise en œuvre des changements de contenu et de configuration nécessaires.",
+                        "Outillage personnel (Ansible + Docker) pour recréer un miroir de la prod et faciliter mes propres tests avant mise en production."
+                    ],
+                    "techno": ["WordPress", "HTML", "CSS", "Ansible", "Docker"]
+                    },
+                    {
+                    "titre": "Administration serveur",
+                    "bullets": [
+                        "Maintenance du VPS Windows hébergeant les services.",
+                        "Gestion des certificats TLS pour un accès web sécurisé."
+                    ],
+                    "techno": ["Windows", "TLS", "VPS", "cloud"]
+                    }
+                ]
+                }
+            ],
+
+            "tags": ["WinDev", "Python", "PDF", "Excel", "WordPress", "Windows", "TLS"]
+        },
+        {
+        "titre": "Ingénieur Logiciel Freelance",
+        "organisation": "Azoth Systems",
+        "url":"https://www.azoth-systems.com",
+        "via": "Waveye",
+        "lieu": "",
+        "mode": "Télétravail",
+        "date": {
+            "start": "Septembre 2021",
+            "end": "Septembre 2021",
+            "current": false
+        },
+
+        "intro": "Mission courte pour mettre à niveau la base de code avant que les versions de Node.js et MongoDB ne deviennent obsolètes.",
+
+        "sections": [
+            {
+            "titre": "Mise à niveau de la base de code",
+            "paragraphe": "Mise à niveau des dépendances et du code Node.js et MongoDB.",
+            "items": [
+                {
+                "titre": "Runtime et dépendances",
+                "bullets": [
+                    "Mise à jour du projet vers des versions plus récentes de Node.js.",
+                    "Adaptation de l'utilisation de MongoDB aux nouveaux drivers et fonctionnalités.",
+                    "Garantie de compatibilité de l'application avant la fin de vie des anciennes versions."
+                ],
+                "techno": ["Node.js", "MongoDB"]
+                }
+            ]
+            }
+        ],
+
+        "tags": ["Node.js", "MongoDB", "Mise à niveau de code"]
+        },
+        {
+        "titre": "Développeur Mobile / Freelance",
+        "organisation": "Un Océan de Vie",
+        "url":"https://www.unoceandevie.fr",
+        "via": "Waveye",
+        "lieu": "",
+        "mode": "Télétravail",
+        "date": {
+            "start": "Mars 2021",
+            "end": "Juin 2021",
+            "current": false
+        },
+
+        "intro": "Mission freelance pour mettre à jour et étendre l'application mobile Un Océan de Vie sur Android et iOS.",
+
+        "sections": [
+            {
+            "titre": "Mises à jour de l'application et nouvelles fonctionnalités",
+            "paragraphe": "Mise à niveau de l'application mobile existante et ajout de nouveaux formulaires et fonctionnalités cartographiques.",
+            "items": [
+                {
+                "titre": "Mises à jour des frameworks",
+                "bullets": [
+                    "Mise à jour d'Ionic et Angular vers des versions plus récentes.",
+                    "Garantie de compatibilité de la base de code existante avec les frameworks mis à jour."
+                ],
+                "techno": ["Ionic", "Angular", "TypeScript", "Cordova"]
+                },
+                {
+                "titre": "Nouveaux formulaires et Google Maps",
+                "bullets": [
+                    "Ajout de nouveaux formulaires pour la collecte de données dans l'application.",
+                    "Amélioration du dessin et des interactions sur Google Maps.",
+                    "Modification du backend pour gérer les nouveaux formulaires et données associées."
+                ],
+                "techno": ["Google Maps", "Camera", "Geolocation", "CouchDB", "PouchDB", "Git", "BitBucket"]
+                }
+            ]
+            },
+            {
+            "titre": "Backend et infrastructure",
+            "paragraphe": "Travail sur les composants backend et infrastructure utilisés par l'application.",
+            "items": [
+                {
+                "titre": "Évolution du backend",
+                "bullets": [
+                    "Travail sur les composants backend Java Spring Boot.",
+                    "Intégration de Couchbase et de l'infrastructure associée.",
+                    "Participation aux outils CI/CD avec Maven, Jenkins, Docker et Google Cloud Platform."
+                ],
+                "techno": ["Java", "Spring Boot", "Couchbase", "Maven", "Jenkins", "Docker", "GCP"]
+                }
+            ]
+            }
+        ],
+
+        "tags": [
+            "Freelance", "Ionic", "Angular", "TypeScript", "Cordova",
+            "Google Maps", "Geolocation", "CouchDB", "PouchDB",
+            "Spring Boot", "Couchbase", "Maven", "Jenkins", "Docker", "GCP"
+        ]
+        },
+
+
+        {
+            "titre": "Ingénieur Logiciel Freelance",
+            "organisation": "Azoth Systems",
+            "url":"https://www.azoth-systems.com",
+            "via": "Waveye",
+            "lieu": "",
+            "mode": "Télétravail",
+            "date": { "start": "Février 2021", "end": "Février 2021", "current": false },
+            "intro": "Travail sur un plugin Cordova pour l'application mobile O'Dive afin de connecter les ordinateurs de plongée Mares Genius via Bluetooth.",
+            "sections": [
+                {
+                "titre": "Plugin Cordova Bluetooth pour Mares Genius",
+                "paragraphe": "Modification d'un plugin propriétaire intégrant la bibliothèque libDC pour prendre en charge les ordinateurs de plongée Mares Genius.",
+                "items": [
+                    {
+                    "titre": "Modifications du plugin et de la bibliothèque",
+                    "bullets": [
+                        "Modification du plugin Cordova propriétaire contenant la bibliothèque open source libDC (<a href=\"https://subsurface-divelog.org\">Subsurface</a>) pour gérer les ordinateurs de plongée Mares Genius.",
+                        "Extension de la bibliothèque pour détecter de nouvelles fonctionnalités dans les profils de plongée.",
+                        "Amélioration du temps de récupération des profils en ajoutant un filtrage temporel sur les données de plongée."
+                    ],
+                    "techno": ["JavaScript", "Swift", "Objective-C", "Java", "C", "Bluetooth", "libDC"]
+                    },
+                    {
+                    "titre": "Gestion de projet",
+                    "bullets": ["Utilisation de Trello pour gérer et suivre les tâches liées au plugin."],
+                    "techno": ["Trello"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Cordova", "Bluetooth", "JavaScript", "Swift", "Objective-C", "Java", "C", "libDC", "Trello"]
+            },
+            {
+            "titre": "Ingénieur Logiciel",
+            "organisation": "Azoth Systems",
+            "url":"https://www.azoth-systems.com",
+            "lieu": "Télétravail",
+            "mode": "Télétravail",
+            "date": { "start": "Décembre 2019", "end": "Mars 2020", "current": false },
+            "intro": "Poste permanent sur l'application de sécurité hyperbare <a href=\"https://o-dive.com/en/home/\">O'Dive</a>, incluant l'application mobile, les services backend et les plugins natifs.",
+            "sections": [
+                {
+                "titre": "Application mobile O'Dive",
+                "paragraphe": "Développement et amélioration de l'application mobile O'Dive en JavaScript.",
+                "items": [
+                    {
+                    "titre": "Fonctionnalités mobiles",
+                    "bullets": [
+                        "Développement et amélioration de l'application mobile O'Dive en JavaScript.",
+                        "Travail sur l'UI et les flux de données liés aux informations de plongée."
+                    ],
+                    "techno": ["JavaScript", "Cordova"]
+                    }
+                ]
+                },
+                {
+                "titre": "Services backend",
+                "paragraphe": "Backend Node.js et MongoDB alimentant l'application O'Dive.",
+                "items": [
+                    {
+                    "titre": "Backend et données",
+                    "bullets": [
+                        "Développement et amélioration des services backend avec node.js.",
+                        "Maintenance de la persistance des données basée sur MongoDB."
+                    ],
+                    "techno": ["Node.js", "MongoDB"]
+                    }
+                ]
+                },
+                {
+                "titre": "Plugins natifs et intégration cloud",
+                "paragraphe": "Interconnexion entre mobile, code natif et clouds des fabricants.",
+                "items": [
+                    {
+                    "titre": "Plugins Cordova",
+                    "bullets": [
+                        "Développement de plugins Cordova en Swift, Objective-C, Java et C.",
+                        "Connexion de l'application mobile O'Dive aux clouds des fabricants d'ordinateurs de plongée via JavaScript et OAuth."
+                    ],
+                    "techno": ["Cordova", "Swift", "Objective-C", "Java", "C", "JavaScript", "OAuth"]
+                    }
+                ]
+                },
+                {
+                "titre": "Organisation du projet",
+                "paragraphe": "Coordination d'équipe et suivi des tâches.",
+                "items": [
+                    {
+                    "titre": "Gestion des tâches",
+                    "bullets": ["Utilisation de Trello pour gérer les tâches et prioriser le travail entre mobile, backend et plugins."],
+                    "techno": ["Trello"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["CDI", "JavaScript", "Cordova", "Node.js", "MongoDB", "Swift", "Objective-C", "Java", "C", "OAuth", "Trello"]
+            },
+            {
+            "titre": "Ingénieur Logiciel",
+            "organisation": "Azoth Systems",
+            "url":"https://www.azoth-systems.com",
+            "lieu": "",
+            "mode": "Télétravail",
+            "date": { "start": "Sept 2019", "end": "Juin 2019", "current": false },
+            "intro": "Poste freelance sur l'application de sécurité hyperbare <a href=\"https://o-dive.com/en/home/\">O'Dive</a>, incluant l'application mobile, les services backend et les plugins natifs.",
+            "sections": [
+                {
+                "titre": "Application mobile O'Dive",
+                "paragraphe": "Optimisation d'un plugin Cordova pour le traitement de signal doppler.",
+                "items": [
+                    {
+                    "titre": "Fonctionnalités mobiles",
+                    "bullets": [
+                        "Développement d'un plugin Cordova à partir de code source C généré par Matlab. Interfaçage avec Swift et Java.",
+                        "Refactorisation du code C généré par MATLAB pour l'allocation mémoire dynamique sur mobile."
+                    ],
+                    "techno": ["C", "JavaScript", "Cordova", "Swift", "Objective-C", "Java", "JavaScript"]
+                    }
+                ]
+                },
+                {
+                "titre": "Services backend",
+                "paragraphe": "Backend Node.js et MongoDB alimentant l'application O'Dive.",
+                "items": [
+                    {
+                    "titre": "Backend et données",
+                    "bullets": [
+                        "Développement et amélioration des services backend avec node.js.",
+                        "Maintenance de la persistance des données basée sur MongoDB."
+                    ],
+                    "techno": ["Node.js", "MongoDB"]
+                    }
+                ]
+                },
+                {
+                "titre": "Organisation du projet",
+                "paragraphe": "Coordination d'équipe et suivi des tâches.",
+                "items": [
+                    {
+                    "titre": "Gestion des tâches",
+                    "bullets": ["Utilisation de Trello pour gérer les tâches et prioriser le travail entre mobile, backend et plugins."],
+                    "techno": ["Trello"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Freelance", "JavaScript", "Cordova", "Node.js", "MongoDB", "Swift", "Objective-C", "Java", "C", "OAuth", "Trello", "MATLAB"]
+            },
+            {
+            "titre": "Développeur Mobile Full Stack / Bénévole",
+            "organisation": "ACLA",
+            "via": "Waveye",
+            "lieu": "Antibes, France",
+            "mode": "Bénévolat",
+            "date": { "start": "Mai 2019", "end": "Mai 2019", "current": false },
+            "intro": "Travail bénévole pour ACLA autour du festival d'arts de la rue Déantibulations dans le Vieil Antibes, incluant des applications mobiles publiques et administratives.",
+            "sections": [
+                {
+                "titre": "Application du festival Déantibulations",
+                "paragraphe": "Conception et développement d'une application mobile pour le festival d'arts de la rue Déantibulations dans le Vieil Antibes.",
+                "items": [
+                    {
+                    "titre": "Application mobile publique",
+                    "bullets": [
+                        "Développement d'une application mobile Android et iOS pour le festival Déantibulations.",
+                        "Fourniture d'informations sur les spectacles de rue et les horaires aux festivaliers.",
+                        "Adaptation des icônes et écrans de démarrage aux différents modèles de smartphones."
+                    ],
+                    "techno": ["Ionic", "Angular", "TypeScript", "RxJS", "Cordova", "Android", "iOS"]
+                    },
+                    {
+                    "titre": "Application administrative",
+                    "bullets": [
+                        "Développement d'une application mobile administrative pour les responsables de spectacles.",
+                        "Permettait aux responsables de modifier le statut des spectacles (en cours, terminé, horaire modifié, changement de lieu, etc.)."
+                    ],
+                    "techno": ["Ionic", "Angular", "Cordova"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion des stores et déploiement",
+                "paragraphe": "Publication et test des applications sur les stores.",
+                "items": [
+                    {
+                    "titre": "Opérations sur les stores",
+                    "bullets": ["Gestion de la configuration des stores : applications, testeurs et captures d'écran pour les apps Déantibulations."],
+                    "techno": ["Google Play", "Apple App Store"]
+                    }
+                ]
+                },
+                {
+                "titre": "Web scraping et préparation des données",
+                "paragraphe": "Automatisation autour du contenu du site web ACLA.",
+                "items": [
+                    {
+                    "titre": "Scraping du site ACLA",
+                    "bullets": [
+                        "Développement d'un script Python de web scraping sur le site ACLA.",
+                        "Conversion des données extraites en JSON pour utilisation dans les applications."
+                    ],
+                    "techno": ["Python", "REST API", "JSON", "PHP"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Bénévolat", "Waveye", "Application festival", "Ionic", "Angular", "TypeScript", "RxJS", "Cordova", "Android", "iOS", "Python", "REST API", "JSON", "PHP", "Git", "BitBucket", "web scraping"]
+            },
+            {
+            "titre": "Développeur Mobile / Freelance",
+            "organisation": "Un Océan de Vie",
+            "url":"https://www.unoceandevie.fr",
+            "via": "Waveye",
+            "lieu": "",
+            "mode": "Télétravail",
+            "date": { "start": "Janvier 2019", "end": "Février 2019", "current": false },
+            "intro": "Travail freelance pour construire et déployer l'application mobile initiale de l'association Un Océan de Vie sur Android et iOS.",
+            "sections": [
+                {
+                "titre": "Application mobile pour l'association",
+                "paragraphe": "Développement de la première application mobile Un Océan de Vie pour Android et iOS.",
+                "items": [
+                    {
+                    "titre": "Application principale",
+                    "bullets": [
+                        "Développement d'une application mobile pour l'association Un Océan de Vie sur Android et iOS.",
+                        "Utilisation d'Ionic, Angular, TypeScript et Cordova pour construire l'application.",
+                        "Intégration de Google Maps, appareil photo et géolocalisation pour l'usage sur le terrain.",
+                        "Utilisation de CouchDB et PouchDB pour la synchronisation des données."
+                    ],
+                    "techno": ["Ionic", "Angular", "TypeScript", "Cordova", "Google Maps", "Camera", "Geolocation", "CouchDB", "PouchDB", "Git", "BitBucket"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion des stores et déploiement",
+                "paragraphe": "Préparation et publication de l'application sur les principaux stores.",
+                "items": [
+                    {
+                    "titre": "Stores et outillage",
+                    "bullets": [
+                        "Adaptation des icônes et écrans de démarrage aux différents modèles de smartphones.",
+                        "Gestion des stores : création de compte, configuration de l'application, gestion des testeurs, captures d'écran et soumissions.",
+                        "Utilisation d'Apple Xcode et Android Studio pour les builds et le déploiement."
+                    ],
+                    "techno": ["Apple Xcode", "Android Studio"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Freelance", "Ionic", "Angular", "TypeScript", "Cordova", "Google Maps", "Camera", "Geolocation", "CouchDB", "PouchDB", "Git", "BitBucket", "Apple Xcode", "Android Studio"]
+            },
+            {
+            "titre": "Ingénieur Logiciel Freelance",
+            "organisation": "Azoth Systems",
+            "url":"https://www.azoth-systems.com",
+            "via": "Waveye",
+            "lieu": "",
+            "mode": "Télétravail",
+            "date": { "start": "Juin 2019", "end": "Septembre 2019", "current": false },
+            "intro": "Mission freelance pour améliorer l'application O'Dive et son backend, et développer des plugins Cordova autour de code natif C/Matlab.",
+            "sections": [
+                {
+                "titre": "Améliorations de l'application et du backend O'Dive",
+                "paragraphe": "Amélioration continue de l'application mobile et de ses services backend.",
+                "items": [
+                    {
+                    "titre": "Mobile et backend",
+                    "bullets": [
+                        "Amélioration du comportement et des fonctionnalités de l'application mobile O'Dive.",
+                        "Amélioration de la logique backend et du traitement des données pour répondre aux nouveaux besoins mobiles."
+                    ],
+                    "techno": ["JavaScript", "Node.js", "MongoDB"]
+                    }
+                ]
+                },
+                {
+                "titre": "Plugin Cordova à partir de C généré par Matlab",
+                "paragraphe": "Travail de plugin natif basé sur du code C généré par Matlab.",
+                "items": [
+                    {
+                    "titre": "Développement du plugin",
+                    "bullets": [
+                        "Développement d'un plugin Cordova à partir de code source C généré par Matlab.",
+                        "Interfaçage de Swift et Java autour des composants natifs C.",
+                        "Refactorisation du code C généré par Matlab pour utiliser une allocation mémoire dynamique adaptée aux mobiles."
+                    ],
+                    "techno": ["Cordova", "C", "Matlab", "Swift", "Java"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion des tâches",
+                "paragraphe": "Organisation du travail freelance avec Azoth.",
+                "items": [
+                    {
+                    "titre": "Suivi de projet",
+                    "bullets": ["Utilisation de Trello pour gérer et suivre les tâches durant la mission freelance."],
+                    "techno": ["Trello"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Freelance", "JavaScript", "Node.js", "MongoDB", "Cordova", "C", "Matlab", "Swift", "Java", "Trello"]
+            },
+            {
+            "titre": "Freelance - Webmestre",
+            "organisation": "Un Océan de Vie",
+            "url":"https://www.unoceandevie.fr",
+            "via": "Waveye",
+            "lieu": "",
+            "mode": "Télétravail",
+            "date": { "start": "Avril 2019", "end": "", "current": true },
+            "intro": "Webmestre freelance pour l'association Un Océan de Vie, gérant le site web, la boutique en ligne et la communication.",
+            "sections": [
+                {
+                "titre": "Maintenance du site WordPress",
+                "paragraphe": "Maintenance et évolution du site WordPress de l'association.",
+                "items": [
+                    {
+                    "titre": "Contenu et pages",
+                    "bullets": [
+                        "Maintenance du site WordPress d'Un Océan de Vie.",
+                        "Publication de nouveaux articles sur le site.",
+                        "Développement de pages et formulaires selon les besoins de l'association.",
+                        "Mise en place personnelle d'un playbook Ansible pour recréer automatiquement un miroir de la prod (conteneurs Docker + restauration des backups) à des fins de test, mise à jour, développement."
+                    ],
+                    "techno": ["WordPress", "PHP", "Forms", "Ansible", "Docker"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion de la boutique WooCommerce",
+                "paragraphe": "Gestion de la boutique en ligne et des transactions.",
+                "items": [
+                    {
+                    "titre": "Opérations de la boutique",
+                    "bullets": [
+                        "Gestion de la boutique WooCommerce de l'association.",
+                        "Gestion des informations produits et configuration des ventes en ligne."
+                    ],
+                    "techno": ["WooCommerce", "WordPress", "Paypal"]
+                    }
+                ]
+                },
+                {
+                "titre": "Communication et design",
+                "paragraphe": "Publication d'informations et conception de visuels en ligne.",
+                "items": [
+                    {
+                    "titre": "Réseaux sociaux",
+                    "bullets": [
+                        "Diffusion d'informations sur Facebook et Instagram.",
+                        "Publication de posts et stories pour promouvoir les activités de l'association."
+                    ],
+                    "techno": ["Facebook", "Instagram", "Social networks"]
+                    },
+                    {
+                    "titre": "Design visuel",
+                    "bullets": [
+                        "Conception de posts et stories avec Canva.",
+                        "Création de contenu visuel adapté aux formats des réseaux sociaux."
+                    ],
+                    "techno": ["Canva", "graphic", "design"]
+                    }
+                ]
+                },
+                {
+                "titre": "Optimisation hébergement et cloud",
+                "paragraphe": "Réglage de l'environnement d'hébergement et cloud du site.",
+                "items": [
+                    {
+                    "titre": "GCP et Docker",
+                    "bullets": [
+                        "Réglages fins sur Google Cloud Platform pour le site.",
+                        "Travail sur les configurations Docker pour l'hébergement."
+                    ],
+                    "techno": ["Google Cloud Platform", "GCP", "Docker"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Webmestre", "WordPress", "WooCommerce", "Facebook", "Instagram", "Canva", "Google Cloud Platform", "GCP", "Docker"]
+            },
+            {
+            "titre": "Indépendant - Waveye",
+            "organisation": "Waveye",
+            "url":"https://www.waveye.fr",
+            "lieu": "Antibes, France",
+            "mode": "Indépendant",
+            "date": { "start": "depuis 2018", "end": "", "current": true },
+            "intro": "Waveye est la micro-entreprise utilisée pour le travail freelance et de développement mobile, immatriculée au RCS d'Antibes sous le numéro 501 874 382.",
+            "sections": [
+                {
+                "titre": "Conception et développement d'applications mobiles",
+                "paragraphe": "Conception et implémentation générale d'applications mobiles sous la marque Waveye.",
+                "items": [
+                    {
+                    "titre": "Applications",
+                    "bullets": [
+                        "Conception et développement de diverses applications mobiles pour clients et associations.",
+                        "Utilisation de chaînes d'outils multiplateformes et natives selon les besoins des projets."
+                    ],
+                    "techno": ["Android", "iOS", "Ionic", "Cordova", "Swift", "JavaScript"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Indépendant", "Micro-entreprise", "Développement mobile", "Android", "iOS"]
+            },
+            {
+            "titre": "Développeur Mobile / Indépendant",
+            "organisation": "Waveye",
+            "url":"https://www.waveye.fr",
+            "via": "Waveye",
+            "projet": "IRIS",
+            "lieu": "Antibes, France",
+            "mode": "Indépendant",
+            "date": { "start": "2017", "end": "2019", "current": false },
+            "intro": "IRIS est une application mobile basé sur les iBeacons. Waveye a été initialement créée pour réaliser ce projet en micro-entreprise.",
+            "sections": [
+                {
+                "titre": "Application mobile basée sur les iBeacons",
+                "paragraphe": "Conception et développement d'une application mobile s'appuyant sur les iBeacons pour des interactions contextuelles.",
+                "items": [
+                    {
+                    "titre": "Concept et conception",
+                    "bullets": [
+                        "Conception d'une application utilisant les iBeacons pour fournir des fonctionnalités de localisation ou de proximité.",
+                        "Définition des zones de beacons et des comportements associés dans l'application."
+                    ],
+                    "techno": ["iBeacons", "Bluetooth Low Energy"]
+                    },
+                    {
+                    "titre": "Implémentation",
+                    "bullets": [
+                        "Implémentation de la logique de l'application mobile autour de la détection des beacons.",
+                        "Gestion de l'affichage de notifications ou de contenu à l'entrée/sortie des zones de beacons."
+                    ],
+                    "techno": ["Swift"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Waveye", "IRIS", "iBeacons", "Swift", "BLE", "Indépendant"]
+            },
+            {
+            "titre": "Développeur Mobile Full Stack / Bénévole",
+            "organisation": "DORIS FFESSM",
+            "url":"https://doris.ffessm.fr",
+            "via": "Waveye",
+            "lieu": "",
+            "mode": "Bénévolat",
+            "date": { "start": "depuis 2015", "end": "", "current": true },
+            "intro": "Travail bénévole pour DORIS, le site participatif de la FFESSM sur les espèces marines et d'eau douce, développant une application iOS pour utiliser les données du site hors ligne pendant les voyages et plongées sans réseau.",
+            "sections": [
+                {
+                "titre": "Application iOS hors ligne",
+                "paragraphe": "Conception et développement d'une application mobile iOS pour le site DORIS.",
+                "items": [
+                    {
+                    "titre": "Concept de l'application",
+                    "bullets": [
+                        "Conception et développement d'une application mobile iOS, d'abord en Objective-C puis en Swift, pour accéder aux données du site DORIS hors ligne.",
+                        "Usage ciblé lors de voyages ou sur les sites de plongée où la connectivité réseau est limitée ou indisponible."
+                    ],
+                    "techno": ["Objective-C", "Swift", "iOS"]
+                    }
+                ]
+                },
+                {
+                "titre": "Modèle de données et SQLite",
+                "paragraphe": "Utilisation et optimisation des données fournies par l'équipe bénévole Android.",
+                "items": [
+                    {
+                    "titre": "Stockage basé sur SQLite",
+                    "bullets": [
+                        "Utilisation des données récupérées par les bénévoles de l'équipe Android, stockées dans une base SQLite.",
+                        "Transformation de la base SQLite pour la rendre plus légère et adaptée au stockage iPhone."
+                    ],
+                    "techno": ["SQLite"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion des stores et statut du projet",
+                "paragraphe": "Gestion des app stores et nature expérimentale du projet.",
+                "items": [
+                    {
+                    "titre": "Opérations sur les stores",
+                    "bullets": ["Gestion des stores : création de comptes, configuration des applications, gestion des testeurs et captures d'écran."],
+                    "techno": ["Apple App Store"]
+                    },
+                    {
+                    "titre": "Statut du projet",
+                    "bullets": [
+                        "Application inachevée, développement réalisé sur le temps libre.",
+                        "Projet utilisé pour tester plusieurs technologies."
+                    ],
+                    "techno": []
+                    }
+                ]
+                },
+                {
+                "titre": "Intégration Firebase",
+                "paragraphe": "Importation des données DORIS dans des services backend modernes.",
+                "items": [
+                    {
+                    "titre": "Migration de données",
+                    "bullets": [
+                        "Importation de la base SQLite dans Firebase pour moderniser la gestion des données.",
+                        "Travail avec les intégrations API-Platform et JSON/Core Data."
+                    ],
+                    "techno": ["Firebase", "API-Platform", "JSON", "Core Data", "PHP"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Bénévolat", "DORIS", "FFESSM", "Objective-C", "Swift", "SQLite", "Firebase", "API-Platform", "JSON", "Core Data", "Apple App Store"]
+            },
+            {
+            "titre": "Ingénieur logiciel",
+            "organisation": "ASG Technologies",
+            "url":"https://www.asg.com",
+            "lieu": "Sophia-Antipolis, France",
+            "mode": "",
+            "date": { "start": "Mars 2005", "end": "Septembre 2017", "current": false },
+            "intro": "ASG Technologies était un éditeur de logiciels. Conception, développement et maintenance de logiciels multi-tiers pour l'inventaire informatique. Expert Unix de l'équipe. Développement multi-OS : C, shell, API système, Unix.",
+            "sections": [
+                {
+                "titre": "Clients lourds et plateformes Unix",
+                "paragraphe": "Développement et maintenance de clients lourds multi-OS et de composants spécifiques Unix.",
+                "items": [
+                    {
+                    "titre": "Clients lourds",
+                    "bullets": [
+                        "Développement et maintenance de clients lourds sur plusieurs OS (C, C++, assembleur x86, XML, shell).",
+                        "Implémentation d'une base SQLite embarquée sur les clients lourds Unix.",
+                        "Contrôle et test des clients lourds (test d'agents).",
+                        "Expérience en programmation système bas niveau en C : lecture d'interfaces noyau (/proc), appels système directs, et utilisation d'assembleur inline pour l'introspection matérielle (ex : instruction CPUID)",
+                        "graceful shutdown / gestion propre de l'arrêt/rechargement des processus via signaux Unix (SIGHUP, SIGTERM...)"
+                    ],
+                    "techno": ["C", "C++", "Assembly x86", "XML", "Shell", "SQLite", "socket", "threads", "gestion des signaux Unix" ]
+                    },
+                    {
+                    "titre": "Inventaire et monitoring Unix",
+                    "bullets": [
+                        "Inventaire matériel et logiciel via API système.",
+                        "Définition d'un inventaire de commandes basé sur XML : commandes, regex pour extraction de propriétés, stockage dans fichiers d'inventaire.",
+                        "Monitoring système et inventaire de virtualisation sur Unix (IBM LPAR/WPAR, conteneurs/zones SUN, HP Integrity VM/vPar/nPar).",
+                        "Support technique sur FreeBSD : installation, configuration, détection matérielle."
+                    ],
+                    "techno": ["Unix", "Linux", "AIX", "HP-UX", "Solaris", "FreeBSD", "XML"]
+                    }
+                ]
+                },
+                {
+                "titre": "Communications inter-machines et agents",
+                "paragraphe": "Code commun agent et serveur multiplateforme, incluant Windows.",
+                "items": [
+                    {
+                    "titre": "Communications",
+                    "bullets": [
+                        "Responsable des communications inter-machines (socket, HTTP) à partir de 2010.",
+                        "Développement et maintenance des composants Mac OS X depuis 2009.",
+                        "Responsable du code commun agent et serveur depuis 2010.",
+                        "Responsable du développement et de la maintenance de l'agent Windows depuis 2015."
+                    ],
+                    "techno": ["Sockets", "HTTP", "Mac OS X", "Windows", "Unix"]
+                    }
+                ]
+                },
+                {
+                "titre": "CI/CD et systèmes de build",
+                "paragraphe": "Système CI/CD distribué personnalisé pour les produits du groupe.",
+                "items": [
+                    {
+                    "titre": "Build et livraison distribués",
+                    "bullets": [
+                        "Création d'un système de build distribué utilisant CVS, batch MS, scripts shell (Bash), zip, SSH et makefiles.",
+                        "Déploiement automatique des nouveaux builds sur machines de test avec reporting.",
+                        "Système de livraison continue : multi-OS, CVS, compilation distribuée/parallèle, contrôle d'intégrité.",
+                        "Configuration de VM, administration de serveur FTP, signature d'exécutables et intégration dans les systèmes de test."
+                    ],
+                    "techno": ["CVS", "Bash", "Batch", "Makefile", "SSH", "VMware", "FTP"]
+                    },
+                    {
+                    "titre": "Fonctionnalités côté serveur",
+                    "bullets": [
+                        "Développement d'un handler IIS (C#, Visual Studio 2012).",
+                        "Empreinte d'inventaire sans agent (MySQL, PostgreSQL, Docker) en C#.",
+                        "Améliorations de l'application serveur TrackBird (Delphi 7)."
+                    ],
+                    "techno": ["C#", "Visual Studio", "MySQL", "PostgreSQL", "Docker", "Delphi"]
+                    }
+                ]
+                },
+                {
+                "titre": "Support et partage de connaissances",
+                "paragraphe": "Support technique inter-équipes et audits.",
+                "items": [
+                    {
+                    "titre": "Support et audits",
+                    "bullets": [
+                        "Audit de code externe sur divers projets.",
+                        "Implémentation de systèmes de build sur plusieurs produits du groupe.",
+                        "Partage de connaissances et de code avec d'autres équipes.",
+                        "Analyse de problèmes et solutions pour l'inventaire matériel dans d'autres logiciels de l'entreprise.",
+                        "Inventaire matériel et logiciel des mobiles Android (Java, JSON).",
+                        "Installation et administration VMware de VM Windows, Linux, FreeBSD et Solaris.",
+                        "Installation et configuration du bureau distant Guacamole, incluant la configuration Docker et des scripts de déploiement Bash pour Java/MySQL/Tomcat."
+                    ],
+                    "techno": ["Java", "JSON", "VMware", "Guacamole", "Docker", "Bash", "MySQL", "Tomcat"],
+                    "repo":"https://github.com/sgalvagno/guacamole-install"
+                    }
+                ]
+                }
+            ],
+            "tags": ["C", "C++", "Unix", "Linux", "Shell", "Windows", "SQLite", "CVS", "CI/CD", "C#", "Delphi", "Docker"]
+            },
+            {
+            "titre": "Collaborateur - Développeur unique",
+            "organisation": "Reliability Plus Inc (RPI)",
+            "lieu": "Salisbury, USA",
+            "mode": "Télétravail depuis la France",
+            "date": { "start": "2011", "end": "2016", "current": false },
+            "intro": "RPI était un éditeur de logiciels. Audit, maintenance et évolution d'un logiciel de surveillance de fiabilité.",
+            "sections": [
+                {
+                "titre": "Application de surveillance de fiabilité",
+                "paragraphe": "Conception et maintenance d'une application N-tiers pour la surveillance de la fiabilité des machines.",
+                "items": [
+                    {
+                    "titre": "Application principale",
+                    "bullets": [
+                        "Développement d'une application N-tiers pour la surveillance de la fiabilité des machines.",
+                        "Utilisation d'un protocole réseau propriétaire, FTP et SFTP pour le transfert de données.",
+                        "Maintenance et évolution des algorithmes de fiabilité et des rapports."
+                    ],
+                    "techno": ["C", "C++", "Network protocol", "FTP", "SFTP"]
+                    }
+                ]
+                },
+                {
+                "titre": "Agents multi-OS et serveur",
+                "paragraphe": "Agents sur de nombreuses plateformes et composants côté serveur.",
+                "items": [
+                    {
+                    "titre": "Agents",
+                    "bullets": [
+                        "Développement et maintenance d'agents multi-OS (C, C++, shell, batch).",
+                        "Plateformes supportées : Linux (x86, x64, PPC, OS390, OS390s), AIX, HP-UX, Solaris (Sparc et x86), Mac OS X, Windows."
+                    ],
+                    "techno": ["Linux", "AIX", "HP-UX", "Solaris", "Mac OS X", "Windows", "Shell", "Batch", "Sparc", "X86", "x64", "PPC", "OS390", "OS390s"]
+                    },
+                    {
+                    "titre": "Logiciel serveur",
+                    "bullets": [
+                        "Développement et maintenance de logiciel serveur sur Windows (C/C++ et batch).",
+                        "Traitement en temps réel et agrégation de données."
+                    ],
+                    "techno": ["Windows", "C", "C++", "Batch"]
+                    }
+                ]
+                },
+                {
+                "titre": "Installeur et interface web",
+                "paragraphe": "Outillage de déploiement et interface web front-end.",
+                "items": [
+                    {
+                    "titre": "Installeur",
+                    "bullets": [
+                        "Développement d'un installeur avec WiX et C#.",
+                        "Création automatique de règles de pare-feu Windows lors de l'installation."
+                    ],
+                    "techno": ["WiX", "C#", "Windows","Windows Firewall", "Visual Studio"]
+                    },
+                    {
+                    "titre": "Interface web",
+                    "bullets": [
+                        "Développement d'une application web monopage.",
+                        "Technologies : HTML5, CSS3, jQuery Mobile, PHP, JSON.",
+                        "Intégration avec le backend de fiabilité."
+                    ],
+                    "techno": ["HTML5", "CSS3", "jQuery Mobile", "PHP", "JSON", "cPanel"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion des sources et builds",
+                "paragraphe": "Builds distribués et gestion de code source.",
+                "items": [
+                    {
+                    "titre": "Gestion des sources",
+                    "bullets": [
+                        "Implémentation de la gestion de sources avec CVS.",
+                        "Système de build distribué basé sur batch, shell, CVS, zip, SSH et makefiles.",
+                        "Builds multi-OS utilisant C POSIX, shell, batch et PHP.",
+                        "Utilisation de C++ avec le framework Poco."
+                    ],
+                    "techno": ["CVS", "Batch", "Shell", "Zip", "SSH", "Makefile", "POSIX C", "PHP", "C++", "Poco"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["C", "C++", "Linux", "Unix", "Windows", "WiX", "C#", "CVS", "PHP", "HTML5", "CSS3", "jQuery Mobile", "monitoring", "fiabilité"]
+            },
+            {
+            "titre": "Chef d'équipe Unix",
+            "organisation": "Swan",
+            "lieu": "Six-Fours les plages",
+            "mode": "",
+            "date": { "start": "2001", "end": "2002", "current": false },
+            "intro": "Swan était un éditeur de logiciels. Gestion du développement du logiciel de télé-distribution (Vision64) sur divers systèmes Unix.",
+            "sections": [
+                {
+                "titre": "Logiciel de télé-distribution Vision64",
+                "paragraphe": "Application multi-tiers, client/serveur et multi-processus pour la supervision et la distribution de parcs.",
+                "items": [
+                    {
+                    "titre": "Périmètre produit",
+                    "bullets": [
+                        "Travail sur Vision64, un logiciel multiplateforme de supervision et gestion de parcs.",
+                        "Prise en charge de l'administration, de la télé-distribution, du contrôle d'intégrité et de l'inventaire matériel/logiciel."
+                    ],
+                    "techno": ["C++", "Java", "Oracle", "SQL Server", "HTML", "JavaScript"]
+                    }
+                ]
+                },
+                {
+                "titre": "Développement multi-OS et portage",
+                "paragraphe": "Portage des fonctionnalités Windows vers Unix et développement de fonctionnalités spécifiques Unix.",
+                "items": [
+                    {
+                    "titre": "Plateformes multi-OS",
+                    "bullets": [
+                        "Développement et maintenance de fonctionnalités sur AIX, HP-UX, Mac OS, Mac OS X, GNU/Linux, Solaris, Tru64 et Windows.",
+                        "Portage de fonctionnalités initialement développées pour Windows vers des environnements Unix.",
+                        "Implémentation de fonctionnalités spécifiques Unix adaptées à chaque plateforme."
+                    ],
+                    "techno": ["AIX", "HP-UX", "Mac OS", "Mac OS X", "GNU/Linux", "Solaris", "Tru64", "Windows"]
+                    }
+                ]
+                },
+                {
+                "titre": "Supervision d'équipe et support technique",
+                "paragraphe": "Leadership et contributions techniques transverses.",
+                "items": [
+                    {
+                    "titre": "Gestion d'équipe",
+                    "bullets": [
+                        "Supervision de développeurs C, C++ et Java, ainsi que de testeurs.",
+                        "Contributions techniques à d'autres équipes : UML, méthodes, pratiques de développement, bibliothèques et commandes Unix."
+                    ],
+                    "techno": ["C", "C++", "Java", "UML", "Unix"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["C++", "Java", "Oracle", "SQL Server", "HTML", "JavaScript", "AIX", "HP-UX", "Mac OS", "Linux", "Solaris", "Tru64", "Windows", "UML", "Unix"]
+            },
+            {
+            "titre": "Développeur",
+            "organisation": "Swan",
+            "lieu": "Six-Fours les plages",
+            "mode": "",
+            "date": { "start": "2000", "end": "2001", "current": false },
+            "intro": "Swan était un éditeur de logiciels. Travail sur un logiciel de télé-distribution sur plusieurs plateformes Unix.",
+            "sections": [
+                {
+                "titre": "Logiciel de télé-distribution",
+                "paragraphe": "Portage de l'application de télé-distribution vers diverses plateformes Unix.",
+                "items": [
+                    {
+                    "titre": "Travail de portage",
+                    "bullets": [
+                        "Portage d'un logiciel de télé-distribution écrit en C++ vers Linux, HP-UX, AIX, macOS X et Solaris.",
+                        "Travail en autonomie et en équipe pour finaliser les portages et assurer la stabilité."
+                    ],
+                    "techno": ["C++", "Linux", "HP-UX", "AIX", "Mac OS X", "Solaris"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["C++", "Linux", "HP-UX", "AIX", "Mac OS X", "Solaris"]
+            },
+            {
+            "titre": "Stagiaire de recherche",
+            "organisation": "IRIT (Institut de Recherche en Informatique de Toulouse)",
+            "lieu": "Toulouse, France",
+            "mode": "Stage",
+            "date": { "start": "1998", "end": "1999", "current": false },
+            "intro": "Stage de recherche à l'IRIT sur le suivi des gestes en langue des signes et la définition du mouvement et de la configuration de la main.",
+            "sections": [
+                {
+                "titre": "Suivi des gestes en langue des signes",
+                "paragraphe": "Recherche sur les méthodes pour suivre et décrire le mouvement et la configuration de la main pour la langue des signes.",
+                "items": [
+                    {
+                    "titre": "Sujet de recherche",
+                    "bullets": [
+                        "Travail sur le suivi des gestes en langue des signes.",
+                        "Recherche de méthodes pour définir le mouvement de la main et sa configuration dans le temps."
+                    ],
+                    "techno": ["Mac OS", "C++", "vidéo"]
+                    }
+                ]
+                },
+                {
+                "titre": "Traitement et analyse d'images",
+                "paragraphe": "Utilisation de techniques de traitement d'images pour le suivi de gestes.",
+                "items": [
+                    {
+                    "titre": "Techniques",
+                    "bullets": [
+                        "Application de méthodes de contours actifs pour la segmentation de gestes.",
+                        "Utilisation de filtrage linéaire pour les étapes de traitement d'images.",
+                        "Utilisation de la segmentation chromatique pour différencier les régions visuelles pertinentes pour le suivi de la main."
+                    ],
+                    "techno": ["Active Contour", "Linear Filtering", "Chromatic Segmentation"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["Stage de recherche", "IRIT", "Langue des signes", "LSF", "Mac OS", "C++", "Traitement d'image", "Active Contour", "Linear Filtering", "Chromatic Segmentation", "vidéo"]
+            },
+            {
+            "titre": "SITEC / ANPROS (Centre de Recherche Opérationnelle et de Simulations), Marine Nationale",
+            "organisation": "Marine Nationale - ANPROS",
+            "lieu": "Toulon, France",
+            "mode": "",
+            "date": { "start": "1998", "end": "1998", "current": false },
+            "intro": "Scientifique du Contingent (SITEC), appelé assimilé-officier, travaillant à l'ANPROS au sein de la Marine Nationale.",
+            "sections": [
+                {
+                "titre": "Logiciel d'aide à la planification financière",
+                "paragraphe": "Conception et développement d'un logiciel d'aide à la planification financière pour l'état-major de la Marine.",
+                "items": [
+                    {
+                    "titre": "Conception et implémentation de l'application",
+                    "bullets": [
+                        "Conception et développement d'un logiciel d'aide à la planification financière pour l'état-major de la Marine.",
+                        "Implémentation de l'application avec la suite Office."
+                    ],
+                    "techno": ["OMT", "Visual Basic for Appllciation", "VBA", "Access", "Excel"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["SITEC", "Marine Nationale", "Planification financière", "OMT", "Visual Basic", "Access", "Excel"]
+            },
+            {
+            "titre": "SITEC / Atelier Militaire de la flotte, Marine Nationale",
+            "organisation": "Marine Nationale - Atelier Militaire de la flotte",
+            "lieu": "Toulon, France",
+            "mode": "",
+            "date": { "start": "1997", "end": "1997", "current": false },
+            "intro": "Scientifique du Contingent (SITEC) à l'Atelier Militaire de la flotte, j'ai travaillé sur l'ERP et la gestion du parc informatique de l'unité.",
+            "sections": [
+                {
+                "titre": "Développement et maintenance de l'ERP",
+                "paragraphe": "Travail sur l'ERP utilisé par l'atelier de la flotte.",
+                "items": [
+                    {
+                    "titre": "Application ERP",
+                    "bullets": [
+                        "Développement et maintenance de l'ERP de l'atelier. (Object View 2.0)",
+                        "Serveur Windows 3.11."
+                    ],
+                    "techno": ["Windows 3.11", "Object View 2.0"]
+                    }
+                ]
+                },
+                {
+                "titre": "Outils de distribution à distance",
+                "paragraphe": "Développé un outils de distribution du logiciel client ERP en C.",
+                "items": [
+                    {
+                    "titre": "Distribution client",
+                    "bullets": [
+                        "Développement d'un outil de distribution à distance du logiciel client ERP.",
+                        "Implémentation de la logique de distribution en C."
+                    ],
+                    "techno": ["C"]
+                    }
+                ]
+                },
+                {
+                "titre": "Gestion du parc informatique et administration de base de données",
+                "paragraphe": "Gestion des PC Windows, serveur Solaris hébergant la base de données SYBASE.",
+                "items": [
+                    {
+                    "titre": "Parc informatique",
+                    "bullets": [
+                        "Gestion du parc informatique, incluant les PC Windows et le serveur Solaris.",
+                        "Administration de la base de données SYBASE."
+                    ],
+                    "techno": ["Solaris", "Windows", "SYBASE"]
+                    },
+                    {
+                    "titre": "Normes qualité",
+                    "bullets": ["Travail sous normes qualité ISO 9002."],
+                    "techno": ["ISO 9002"]
+                    }
+                ]
+                }
+            ],
+            "tags": ["SITEC", "Marine Nationale", "ERP", "Windows 3.11", "Solaris", "SYBASE", "ISO 9002", "C"]
+        }
+    ],
+
+"education": {
+  "academique": [
+    {
+      "nom": "DEA 2IL (Informatique pour l'Image et le Langage) (aujourd'hui Master 2)",
+      "organisme": "Université Paul Sabatier (UPS) / Toulouse",
+      "date": "1999",
+      "type": "Diplôme universitaire",
+      "detail": "Mathématiques, traitement d'image, IHM"
+    },
+    {
+      "nom": "DEUG MIAS, Licence et Maitrise d'Informatique",
+      "organisme": "Université de Toulon et du Var (UTV)",
+      "date": "1995",
+      "type": "Diplôme universitaire",
+      "detail": "Mathématiques et Informatique"
+    },
+    {
+      "nom": "Bac E",
+      "organisme": "Lycée Paul Langevin - La Seyne-sur-Mer",
+      "date": "1992",
+      "type": "Baccalauréat",
+      "detail": "Mathématiques, Physique, Chimie, Mécanique, Électronique et Informatique."
+    }
+  ],
+  "autre": [
+    {
+      "nom": "MOOC Fun / Java EE Spring prêt à l'emploi",
+      "organisme": "Université de Lille",
+      "date": "2021",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:lille+54005+session03_826a05685b82d28d835d8e82c8946cfd.pdf",
+      "tags":["Java","Jave EE", "Spring"]
+    },
+    {
+      "nom": "MOOC Fun / rSAT : Introduction à l'utilisation de la télédétection en entreprise",
+      "organisme": "Université de Liège",
+      "date": "2021",
+      "type": "MOOC",
+      "certificate":"https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:ulg+108018+session01_6e5274088d6eb5ca32a3e2bbedae15d6.pdf",
+      "tags":["imge satellite","satellite","image"]
+    },
+    {
+      "nom": "MOOC Fun / Explorer la 5G",
+      "organisme": "IMT",
+      "date": "2020",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04035+session02_03c1c5f84ae923160674919d55066b28.pdf",
+      "tags":["réseau","mobile","5G","cellulaire"]
+    },
+    {
+      "nom": "MOOC Fun / L’Intelligence Artificielle pour TOUS !",
+      "organisme": "CNAM",
+      "date": "2020",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:CNAM+01046+session02_2970cb2152c1208fcef2ec52b385f377.pdf",
+      "tags":["IA","intelligence artificielle"]
+    },
+    {
+      "nom": "MOOC Fun / Python 3 : des fondamentaux aux concepts avancés du langage.",
+      "organisme": "Université Côte d'Azur",
+      "date": "2020",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:UCA+107001+session02_9954c2c4762fe0130d6b38a809684ae2.pdf",
+      "tags":["Python"]
+    },
+    {
+      "nom": "MOOC Fun / Des neurones à la psyché, introduction aux réseaux de neurones biologiques et artificiels.",
+      "organisme": "Université Grenoble Alpes",
+      "date": "2019",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:grenoblealpes+92012+session02_d5fb2287dd5c791d778a18ce7206a24b.pdf",
+      "tags":["réseau de neurone","neurone","IA"]
+    },
+    {
+      "nom": "MOOC Fun / Objets connectés : des radiofréquences aux réseaux",
+      "organisme": "Université Fédérale Toulouse Midi-Pyrénées",
+      "date": "2019",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-toulouse+101003+session03_9ebc0883f2b59abce833eccbd5d2b445.pdf",
+      "tags":["IOT","objet connecté","radiofréquence", "réseau", "embarqué"]
+    },
+    {
+      "nom": "MOOC Fun / Créateur d'une micro-entreprise",
+      "organisme": "CNFPT",
+      "date": "2018",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:CNFPT+87022+session01_17bccf0a2afd7fd120b13c32f234a6e9.pdf",
+      "tags":["entreprise","entrepreneur"]
+    },
+    {
+      "nom": "MOOC Fun / Imprimer en 3D",
+      "organisme": "Mines Télécom",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:MinesTelecom+04021+session03_83714b60e2db039ba338f4a56c2ad488.pdf",
+      "tags":["impression 3D"]
+    },
+    {
+      "nom": "MOOC Fun / Systèmes embarqués et objets connectés - Démarche de conception",
+      "organisme": "Université Fédérale Toulouse Midi-Pyrénées",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:univ-toulouse+101001+session02_995bbdba10d748eee496deba7adeb496.pdf",
+      "tags":["iot","embarqué","objet connecté","conception"]
+    },
+    {
+      "nom": "MOOC Fun / La compta pour tous",
+      "organisme": "CNAM",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_course-v1:CNAM+01021+session02_649e79cad867b27cdc306e61f112fbb8.pdf",
+      "tags":["comptabilité","entreprise"]
+    },
+    {
+      "nom": "MOOC Fun / Art-duino : fabriquer des objets connectés créatifs",
+      "organisme": "Gobelins",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_gobelins_83002_session01_d34a93a57cb72aadff357826be3b78f7.pdf",
+      "tags":["Arduino","art","IOT","objet connecté","embarqué"]
+    },
+    {
+      "nom": "MOOC Fun / Designer et modéliser dans un Fablab",
+      "organisme": "Mines Télécom",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04021S02_session02_b6bd5d406041061d31f707860d86b1e8.pdf",
+      "tags":["Fablab","impression 3D","CAO","DAO"]
+    },
+    {
+      "nom": "MOOC Fun / Programmer un objet avec Arduino",
+      "organisme": "Mines Télécom",
+      "date": "2017",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04017S02_session02_86eca030ee9546c7ef9285b5225a0072.pdf",
+      "tags":["IOT","Arduino","embarqué"]
+    },
+    {
+      "nom": "MOOC Fun / Introduction to a Web of Linked Data",
+      "organisme": "INRIA",
+      "date": "2016",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_inria_41013_session01_29a3077589c5659164a0df9afd6a9c9e.pdf",
+      "tags":["web","data","RDF"]
+    },
+    {
+      "nom": "MOOC Fun / Programmation orientée objet immersive avec Pharo / Live Object Programming in Pharo",
+      "organisme": "INRIA",
+      "date": "2016",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_inria_41010_session01_53bf2809a9074a3b9ba331cd205cd0a6.pdf",
+      "tags":["Pharo","smalltalk","orienté objet"]
+    },
+    {
+      "nom": "MOOC Fun / Mobile Robots and Autonomous Vehicles",
+      "organisme": "INRIA",
+      "date": "2016",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_inria_41005S02_session02_e51d4731a142fdd25f5ea8ef54b41737.pdf",
+      "tags":["robot","robotique","vehicule"]
+    },
+    {
+      "nom": "MOOC Fun / Objectif IPv6",
+      "organisme": "Mines Télécom",
+      "date": "2016",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04012S02_session02_8972ed13620ec14fa7caffa77e06dfd2.pdf",
+      "tags":["réseau","IPv6","IP"]
+    },
+    {
+      "nom": "MOOC Fun / Challenges et enjeux de la mobilité 2.0",
+      "organisme": "Mines Télécom",
+      "date": "2016",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04015_session01_55ee08a88376dfd96e9bb67d76a62d36.pdf",
+      "tags":["mobilité"]
+    },
+    {
+      "nom": "MOOC Fun / Architecture de l'information",
+      "organisme": "ENS de Lyon",
+      "date": "2015",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_ENSDeLyon_14002S02_session02_8cbada04e78ff97dbd01f3fccda3f458.pdf",
+      "tags":["architecture","data"]
+    },
+    {
+      "nom": "MOOC Centrale Lille – Gestion de projet",
+      "organisme": "Centrale Lille",
+      "date": "2015",
+      "type": "MOOC",
+      "detail": "<ul><li>Tronc commun</li><li>Modules complémentaires<ul><li>Analyse fonctionnelle</li><li>Créativité</li><li>Entrepreneuriat</li><li>Résolution de problèmes</li></ul></li></ul>",
+      "certificate": "https://docs.google.com/spreadsheets/u/0/d/1f2noprHajjeKq_P3UuRbN4npqv6CU-mLQbAbCtqDavE/pub?output=html",
+      "tags":["projet","gestion"]
+    },
+    {
+      "nom": "MOOC FUN / BD**2: Des Bases de Données à Big Data",
+      "organisme": "Unice",
+      "date": "2015",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_unice_33001_Trimestre_4_2014_f380e2f104fc579db00a071f29fa4fce.pdf",
+      "tags":["BD","database","big data"]
+    },
+    {
+      "nom": "MOOC FUN / Optimisation stochastique évolutionnaire",
+      "organisme": "Université de Strasbourg",
+      "date": "2015",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_Strasbourg_17001_Trimestre_3_2014_fed830b6bf9a040ef05a8a55e6bae72a.pdf",
+      "tags":["évolution stochastique","recuit simulé","IA"]
+    },
+    {
+      "nom": "Programmation en C#",
+      "organisme": "Évolution Multimédia / St-Laurent du Var",
+      "date": "2015",
+      "type": "Formation",
+      "tags":["C#", "orienté objet"]
+
+    },
+    {
+      "nom": "MOOC Fun / L'entrepreneuriat qui change le monde",
+      "organisme": "ESSEC",
+      "date": "2015",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_essec_46001_Trimestre_3_2014_f6dbb6e5fc9f6d5bbf7ac535fbb658f3.pdf",
+      "tags":["entreprise","entrepreneur"]
+    },
+    {
+      "nom": "MOOC Fun / Droit des entreprises",
+      "organisme": "Université Paris 1",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_Paris1_16001_Trimestre_2_2014_8d264e91ab96913ad1f350fd6d9d0386.pdf",
+      "tags":["droit","entreprise","entrepreneur"]
+    },
+    {
+      "nom": "MOOC Fun / Principes des Réseaux de données - session 01",
+      "organisme": "Mines Télécom",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04003_Trimestre_1_2014_8517e68beb73627c70fdd4670b354607.pdf",
+      "tags":["réseau","proocole"]
+    },
+    {
+      "nom": "MOOC Fun / La Fabrication numérique",
+      "organisme": "Mines Télécom",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04002_Trimestre_1_2014_6f287520fe4c930b8cc9d856803ba5c1.pdf",
+      "tags":["fablab","impression 3D","CAO"]
+    },
+    {
+      "nom": "MOOC Fun / Introduction aux réseaux mobiles - session 1",
+      "organisme": "Mines Télécom",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_MinesTelecom_04001_Trimestre_1_2014_0642a291e33c6283d597dd6d917b3097.pdf",
+      "tags":["réseau","mobile","cellulaire"]
+    },
+    {
+      "nom": "MOOC Coursera / Introduction à la programmation orientée objet en C++ (C++11)",
+      "organisme": "EPFL (École Polytechnique Fédérale de Lausanne)",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970403~6709263/pdf",
+      "tags":["C++", "C++11", "orienté objet"]
+    },
+    {
+      "nom": "MOOC Fun / Programmation sur iPhone et iPad",
+      "organisme": "UPMC",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_UPMC_18001_Trimestre_2_2014_a4700c73c14457a9928cc078c50a6c28.pdf",
+      "tags":["IOS","Apple","iPhone","iPad","Objective-C","mobile"]
+    },
+    {
+      "nom": "MOOC Fun / Introduction à HTML5 - Animations et jeux - session 1",
+      "organisme": "INSA",
+      "date": "2014",
+      "type": "MOOC",
+      "certificate": "https://lms.fun-mooc.fr/media/attestations/attestation_suivi_groupeinsa_13001_Trimestre_2_2014_1d7caaa67515460363d5653dbb3349cf.pdf",
+      "tags":["HTML","HTML5","web","JS"]
+    },
+    {
+      "nom": "Anglais",
+      "organisme": "Elika Training / Sophia-Antipolis",
+      "date": "2014",
+      "type": "Formation",
+      "tags": ["langue","anglais"]
+    }
+  ]
+}
+
+}
