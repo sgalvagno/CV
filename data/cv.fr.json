@@ -325,7 +325,7 @@
                 "bullets": [
                     "Travail sur les composants backend Java Spring Boot.",
                     "Intégration de Couchbase et de l'infrastructure associée.",
-                    "Participation aux outils CI/CD avec Maven, Jenkins, Docker et Google Cloud Platform."
+                    "Utilisation outils CI/CD Maven, Jenkins, Docker pour builder et déployer sur Google Cloud Platform."
                 ],
                 "techno": ["Java", "Spring Boot", "Couchbase", "Maven", "Jenkins", "Docker", "GCP"]
                 }

@@ -321,7 +321,7 @@
                   "bullets": [
                     "Worked on Java Spring Boot backend components.",
                     "Integrated Couchbase and related infrastructure.",
-                    "Participated in CI/CD tooling using Maven, Jenkins, Docker and Google Cloud Platform."
+                    "Used CI/CD tools Maven, Jenkins, Docker to build and deploy on Google Cloud Platform."
                   ],
                   "techno": ["Java", "Spring Boot", "Couchbase", "Maven", "Jenkins", "Docker", "GCP"]
                 }
