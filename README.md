@@ -1,5 +1,7 @@
 # CV — Sébastien Galvagno
 
+🔗 **Site en ligne : [cv.galvagno.info](http://cv.galvagno.info)**
+
 Site web personnel présentant mon CV : parcours professionnel, formations, compétences et projets. Développé en JavaScript vanilla avec des **Web Components** natifs (`customElements`), sans framework front-end — HTML, CSS et JS purs, packagés avec [Vite](https://vitejs.dev/) pour la production.
 
 Le site propose une interface bilingue (français / anglais), un tiroir latéral (drawer) pour la navigation, un affichage flexible des expériences professionnelles (mode onglets ou liste à plat), et un filtrage par tags technologiques pour les formations complémentaires.
