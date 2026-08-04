@@ -204,6 +204,35 @@
                     "techno": ["Windows", "TLS", "VPS", "cloud"]
                     }
                 ]
+                },
+                {
+                  "titre": "On-site infrastructure",
+                  "paragraphe": "Administration of local servers and equipment at Clavis.",
+                  "items": [
+                    {
+                    "titre": "Local Windows server",
+                    "bullets": [
+                        "Administration of the local Windows server.",
+                        "Setup and monitoring of the backup."
+                    ],
+                    "techno": ["Windows", "Backup"]
+                    },
+                    {
+                    "titre": "Secure remote access",
+                    "bullets": [
+                        "Set up a WireGuard VPN server.",
+                        "Configured VPN clients."
+                    ],
+                    "techno": ["WireGuard", "VPN"]
+                    },
+                    {
+                    "titre": "Power supply",
+                    "bullets": [
+                        "Installed and maintained UPS."
+                    ],
+                    "techno": ["UPS"]
+                    }
+                ]
                 }
             ],
 

@@ -208,6 +208,35 @@
                     "techno": ["Windows", "TLS", "VPS", "cloud"]
                     }
                 ]
+                },
+                {
+                    "titre": "Infrastructure sur site",
+                    "paragraphe": "Administration des serveurs et équipements locaux chez Clavis.",
+                    "items": [
+                        {
+                        "titre": "Serveur local Windows",
+                        "bullets": [
+                            "Administration du serveur Windows local.",
+                            "Mise en place et supervision de la sauvegarde."
+                        ],
+                        "techno": ["Windows", "Sauvegarde"]
+                        },
+                        {
+                        "titre": "Accès distant sécurisé",
+                        "bullets": [
+                            "Mise en place d'un serveur VPN WireGuard.",
+                            "Configuration des clients VPN."
+                        ],
+                        "techno": ["WireGuard", "VPN"]
+                        },
+                        {
+                        "titre": "Alimentation électrique",
+                        "bullets": [
+                            "Installation et maintenance des onduleurs."
+                        ],
+                        "techno": ["Onduleur"]
+                        }
+                ]
                 }
             ],
 
